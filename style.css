@@ -1,0 +1,93 @@
+/* --- breadcrumbs --- */
+.breadcum:hover {
+	background-color: #17a2b8;
+	border-color: #17a2b8;
+}
+/*sidebar box border*/
+
+.sidebar-box {
+	border-left: 1px solid #ecf0f1;
+}
+
+.sidebar-box ul {
+	list-style: none;
+}
+
+.sidebar-box ul li a {
+	color: black;
+	text-decoration: none;
+	font-size: 13px; 
+}
+
+.sidebar-box ul li a:hover {
+	color: #68A4C4;
+}
+
+.sidebar-box.tags ul li a {
+    background: #e6e6e6;
+    color: #333;
+    padding: 5px 10px;
+}
+
+.sidebar-box.tags ul li a:hover {
+	color: white;
+	background: #68A4C4;
+}
+
+/*post meta design start from here*/
+
+.blogpost span {
+	color: #868686;
+	font-size: 14px;
+}
+
+/*pagination design area start from here*/
+
+.page-link {
+	color: black;
+}
+
+/*footer area design start from here*/
+
+.footer-widget p {
+	font-size: 13px;
+}
+
+.footer-widget ul {
+	list-style: none;
+}
+
+.footer-widget ul li a {
+	text-decoration: none;
+	color: white;
+	font-size: 13px;
+}
+
+.footer-widget ul li a:hover {
+	color: #8db2e5;
+}
+
+.footer-widget input {
+	background: transparent;
+	color: white;
+	border-color: white;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+/*contact faq design start form here*/
+
+.faq-area img {
+    border-radius: 50%;
+    border: none;
+    height: 75px;
+    width: 80%;
+
+.about img {
+	width: 100%;
+	margin-top: 50px;
+}
+
+hr {
+	width: 100px;
+}
